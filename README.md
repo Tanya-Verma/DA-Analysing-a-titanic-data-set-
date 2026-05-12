@@ -1,19 +1,19 @@
 # DA (Analysing a Titanic Dataset)
 
 ## *Overview*
-`This project is a **beginner-friendly collaborative data analytics project** based on the famous **Titanic dataset**. The main objective of this project is to understand how data analysis works by applying statistical concepts, data cleaning techniques, and basic visualisation methods using **Python**.`
+`This project is a beginner-friendly collaborative data analytics project based on the famous Titanic dataset. The main objective of this project is to understand how data analysis works by applying statistical concepts, data cleaning techniques, and basic visualisation methods using Python.`
 
-The project focuses on exploring passenger data and identifying patterns related to **survival, age, gender, passenger class,** and other important features.
+The project focuses on exploring passenger data and identifying patterns related to **survival, age, gender, passenger class, and other important features.
 
 ---
 
 ## *Objectives*
-- Understand the basics of **Data Analytics**
-- Learn **Frequency** and **Cumulative Frequency Analysis**
-- Perform **Data Cleaning** and preprocessing
-- Analyse real-world datasets
-- Create simple visualisations for better understanding
-- Build collaborative project experience
+- `Understand the basics of Data Analytics`
+- `Learn Frequency** and **Cumulative Frequency Analysis`
+- `Perform **Data Cleaning and preprocessing`
+- `Analyse real-world datasets`
+- `Create simple visualisations for better understanding`
+- `Build collaborative project experience`
 
 ---
 
@@ -57,7 +57,7 @@ Created simple charts and graphs to visually represent important insights from t
 ---
 
 ## *Learning Outcomes*
-Through this project, we learned:
+Through this project, I learned:
 - How to work with structured datasets
 - Basic statistical analysis methods
 - Data preprocessing techniques
@@ -66,13 +66,6 @@ Through this project, we learned:
 
 ---
 
-## *Future Improvements*
-- Advanced data visualisation
-- Predictive analysis using machine learning
-- Interactive dashboards
-- More detailed statistical insights
-
----
 
 ## *Conclusion*
 This project serves as a **foundational step into the field of Data Analytics** and demonstrates how raw data can be transformed into **meaningful insights** through analysis and visualisation.
