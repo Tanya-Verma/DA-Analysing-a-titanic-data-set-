@@ -3,13 +3,13 @@
 ## *Overview*
 `This project is a beginner-friendly collaborative data analytics project based on the famous Titanic dataset. The main objective of this project is to understand how data analysis works by applying statistical concepts, data cleaning techniques, and basic visualisation methods using Python.`
 
-The project focuses on exploring passenger data and identifying patterns related to **survival, age, gender, passenger class, and other important features.
+The project focuses on exploring passenger data and identifying patterns related to survival, age, gender, passenger class, and other important features.
 
 ---
 
 ## *Objectives*
 - `Understand the basics of Data Analytics`
-- `Learn Frequency** and **Cumulative Frequency Analysis`
+- `Learn Frequency** and Cumulative Frequency Analysis`
 - `Perform **Data Cleaning and preprocessing`
 - `Analyse real-world datasets`
 - `Create simple visualisations for better understanding`
