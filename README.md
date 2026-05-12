@@ -10,7 +10,7 @@ The project focuses on exploring passenger data and identifying patterns related
 ## *Objectives*
 - `Understand the basics of Data Analytics`
 - `Learn Frequency** and Cumulative Frequency Analysis`
-- `Perform **Data Cleaning and preprocessing`
+- `Perform Data Cleaning and preprocessing`
 - `Analyse real-world datasets`
 - `Create simple visualisations for better understanding`
 - `Build collaborative project experience`
