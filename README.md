@@ -34,7 +34,7 @@ The dataset used in this project is the **Titanic dataset**, which contains info
 - Gender
 - Passenger Class
 - Fare
-- Survival Status
+- 
 
 ---
 
