@@ -1,7 +1,7 @@
 # DA (Analysing a Titanic Dataset)
 
 ## *Overview*
-`This project is a beginner-friendly collaborative data analytics project based on the famous Titanic dataset. The main objective of this project is to understand how data analysis works by applying statistical concepts, data cleaning techniques, and basic visualisation methods using Python.`
+`This project is a collaborative data analytics project based on the famous Titanic dataset. The main objective of this project is to understand how data analysis works by applying statistical concepts, data cleaning techniques, and basic visualisation methods using Python. It's just for the shake of learning`
 
 The project focuses on exploring passenger data and identifying patterns related to survival, age, gender, passenger class, and other important features.
 
